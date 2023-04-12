@@ -5,6 +5,9 @@ public class OlaMundo {
         final String ola_mundo = "Hello World!";
 
         System.out.println(ola_mundo);
+
+        // Realizando alterações para subir pro GitHub
+        System.out.println("Olá Mundo!");
         
     }
 }
