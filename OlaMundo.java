@@ -1,5 +1,3 @@
-import javax.swing.SpringLayout.Constraints;
-
 public class OlaMundo {
     public static void main(String[] args) {
 
